@@ -1,0 +1,9 @@
+node_modules
+jspm_packages
+modules
+dist
+build
+.DS_Store
+*.log
+*.sublime-workspace
+*.psd

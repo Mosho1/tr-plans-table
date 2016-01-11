@@ -1,0 +1,35 @@
+{
+  "name": "tr-plans-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "jspm-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharon Rolel",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-stylesheets": "^2.0.0"
+  },
+  "jspm": {
+    "dependencies": {
+      "autoprefixer": "npm:autoprefixer@^6.2.3",
+      "lodash": "npm:lodash@^3.10.1",
+      "postcss-js": "npm:postcss-js@^0.1.1",
+      "postcss-nested": "npm:postcss-nested@^1.0.0",
+      "react": "npm:react@^0.14.6",
+      "react-dom": "npm:react-dom@^0.14.6",
+      "react-stylesheets": "npm:react-stylesheets@^2.0.0"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.20"
+  }
+}
